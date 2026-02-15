@@ -12,7 +12,7 @@ Synopsis
 ================
 <p>Utilizzo:</p>
 ================
-  <p>gentooupdate [opzioni]</p>
+  <p>gentooupdate</p>
 ================
 <p>Opzioni:</p>
 ================
